@@ -9,12 +9,12 @@ Firmware version: 1.11.0 0.8.0 v6062.0 Build 240612 Rel.39329n
 The firmware is the latest as of September 28, 2024.
 
 ## Works with BSNL Fibre and Landline simultaneously.
-I am led to believe that this is the major issue through [this post](https://community.tp-link.com/en/home/forum/topic/618838?sortDir=DESC&page=1). Because I had a similar issue where my internet was working fine but not my landline. I believe whichever is configured first works properly.
+I am led to believe that this is the major issue through [this post](https://community.tp-link.com/en/home/forum/topic/618838?sortDir=DESC&page=1). Because, I had a similar issue where my internet was working fine but not my landline. I believe whichever is configured first works properly.
 
 ## This repository
 **The purpose of creating this repository is to provide a place where owners and users of the TP-Link XC220-G3v (Hardware version v2) can resolve their connectivity issues by accessing the required firmware without going through customer support and delays.**
 
-I happen to own the [tp-link XC220-G3v AC1200 Wireless VoIP XPON Router](https://www.tp-link.com/in/service-provider/gpon/xc220-g3v/). I have a BSNL internet connection and a landline which is one of the reasons I took this product. I bought it off [Amazon](https://www.amazon.in/TP-Link-XC220-G3V-Wireless-External-Management/dp/B0BKC6PTTZ).
+I happen to own the [tp-link XC220-G3v AC1200 Wireless VoIP XPON Router](https://www.tp-link.com/in/service-provider/gpon/xc220-g3v/). I have a BSNL internet connection and a landline which is one of the reasons for me getting this particular product. I bought it off [Amazon](https://www.amazon.in/TP-Link-XC220-G3V-Wireless-External-Management/dp/B0BKC6PTTZ).
 
 ## It is always safe to download firware from the official source, tp-link.
 I am in no way affiliated to either tp-link or BSNL. This repository's purpose is to provide the firmware, which as of not is not available on the tp-link website.
