@@ -17,7 +17,7 @@ I am led to believe that this is the major issue through [this post](https://com
 I happen to own the [tp-link XC220-G3v AC1200 Wireless VoIP XPON Router](https://www.tp-link.com/in/service-provider/gpon/xc220-g3v/). I have a BSNL internet connection and a landline which is one of the reasons for me getting this particular product. I bought it off [Amazon](https://www.amazon.in/TP-Link-XC220-G3V-Wireless-External-Management/dp/B0BKC6PTTZ).
 
 ## It is always safe to download firware from the official source, tp-link.
-I am in no way affiliated to either tp-link or BSNL. This repository's purpose is to provide the firmware, which as of not is not available on the tp-link website.
+I am in no way affiliated to either tp-link or BSNL. This repository's purpose is to provide the firmware, which as of now is not available on the tp-link website.
 I am just sharing what I have been given. If this is not an accepable way to share the firmware, I would gladly remove it, given proper reasons are provided.
 
 ## Configuration
