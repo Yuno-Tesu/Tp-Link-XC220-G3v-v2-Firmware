@@ -3,7 +3,7 @@ This part explains how to upgrade your firmware, considering you can already acc
 
 Head on over to the admin page.
 
-Choose $${\color{lightgreen}**Advanced**}$$ on the main navigation bar.
+Choose $${\color{lightgreen}Advanced}$$ on the main navigation bar.
 
 On the sidebar, select **System Tools**.
 
@@ -21,4 +21,5 @@ The Firmware Upgrade page should look like this (do tick the checkbox though):
 
 ![Firmware Upgrade](images/firmware-upgrade.png)
 
-[!CAUTION]This process will take a while and you have to ensure that the device will stay plugged in and powered on throughout the upgrade process.
+[!CAUTION]
+This process will take a while and you have to ensure that the device will stay plugged in and powered on throughout the upgrade process.
