@@ -1,5 +1,5 @@
 # How to upgrade firmware?
-This part explains how to explain your firmware considering you can already access the admin page of the device. Ensure that your device will stay powered on throughout the process.
+This part explains how to upgrade your firmware, considering you can already access the admin page of the device. Ensure that your device will stay powered on throughout the process.
 
 Head on over to the admin page.
 
@@ -17,4 +17,4 @@ Next to the **New firmware file** at the bottom, you will see an option to **Bro
 
 Click on **Upgrade**.
 
-This process will take a while and you have to ensure that the device will stay powered on throughout the upgrade process.
+This process will take a while and you have to ensure that the device will stay plugged in and powered on throughout the upgrade process.
