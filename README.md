@@ -1,6 +1,8 @@
 # Tp-Link-XC220-G3v-v2-Firmware
 This repository houses the firmware for the TP Link Router XC220-G3v v2 which has problems connecting to the internet and landline simultaneously.
+
 Hardware version: XC220-G3v v2.0 00000000
+
 Firmware version: 1.11.0 0.8.0 v6062.0 Build 240612 Rel.39329n
 
 ## This firmware may not be up-to-date at the time of viewing this page.
