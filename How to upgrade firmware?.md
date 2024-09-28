@@ -3,7 +3,7 @@ This part explains how to upgrade your firmware, considering you can already acc
 
 Head on over to the admin page.
 
-Choose $${\color{lightgreen}Advanced}$$ on the main navigation bar.
+Choose **$${\color{teal}Advanced}$$** on the main navigation bar.
 
 On the sidebar, select **System Tools**.
 
