@@ -19,6 +19,6 @@ Click on **Upgrade**.
 
 The Firmware Upgrade page should look like this (do tick the checkbox though):
 
-![Firmware Upgrade](images/firmware-upgrade.jpg)
+![Firmware Upgrade](images/firmware-upgrade.png)
 
 This process will take a while and you have to ensure that the device will stay plugged in and powered on throughout the upgrade process.
