@@ -64,3 +64,13 @@ Right in the Advanced section of Internet, under Network, add another configurat
 
 ## Telephony Configuration
 Next is the Telephone Number Configuration.
+
+Head over to Telephony in the sidebar and from there, Telephone Number.
+
++ Change $${\color{aquamarine}Telephony \space Provider}$$ to "Other Provider" in case of BSNL or pick your provider from the dropdown.
++ Enter your $${\color{aquamarine}Phone \space Numebr}$$
+    - The Phone number follows the format: `00913457777777`.
+        |00|91|345|7777777|
+        |:--:|:--:|:--:|:--:|
+        |Need to add the zeroes|Country code|Area STD code without the first 0|Telephone Number|
++ Enter your $${\color{aquamarine}Registrar \space Address}$$ (This has to be provided by your ISP).
