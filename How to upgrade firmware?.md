@@ -3,11 +3,11 @@ This part explains how to upgrade your firmware, considering you can already acc
 
 Head on over to the admin page.
 
-Choose $${\color{teal}Advanced}$$ on the main navigation bar.
+Choose $${\color{lightblue}Advanced}$$ on the main navigation bar.
 
 On the sidebar, select $${\color{teal}System \space Tools}$$.
 
-From there, head to **Firmware Upgrade**.
+From there, head to $${\color{teal}Firmware \space Upgrade}$$.
 
 Scroll down to the bottom of the page where you can find **Local Upgrade**.
 
