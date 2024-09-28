@@ -26,8 +26,9 @@ First Delete all existing configurations (This is recommended).
 + Make sure "Enable This Entry" is checked.
 + Tick **"Internet"** as the $${\color{aquamarine}Service \space Type}$$.
 + Tick "Enable" next to $${\color{aquamarine}VLAN}$$.
++ Enter your $${\color{aquamarine}VLAN \space ID}$$ (This is provided by your ISP).
 + Leave $${\color{aquamarine}Priority}$$ and $${\color{aquamarine}Multicast \space VLAN}$$ as is.
-+ $${\color{aquamarine}Internet \space Connection \space Type}$$ is PPPoE
++ $${\color{aquamarine}Internet \space Connection \space Type}$$ is "PPPoE".
 + Enter your $${\color{aquamarine}Username}$$ and $${\color{aquamarine}Password}$$ (These are provided by the ISP).
 + Confirm your password.
 + $${\color{aquamarine}Connection \space Mode}$$ must be "Auto".
@@ -35,10 +36,31 @@ First Delete all existing configurations (This is recommended).
 
 ![Internet-Config](images/setup-internet-1.png)
 
-+ For the interface binding, tick all the boxes except VoIP and CWMP.
++ For the $${\color{aquamarine}Interface \space Binding}$$, tick all the boxes except VoIP and CWMP.
 + Leave the rest as is.
 
 ![Internet-Interface](images/internet-interface.png)
 
 ## Configuring VoIP
-{This section is being worked on.}
+Right in the Advanced section of Internet, under Network, add another configuration.
+
++ Leave the connection name empty or give a desired name.
++ Make sure "Enable This Entry" is checked.
++ Tick **"VoIP"** as the $${\color{aquamarine}Service \space Type}$$.
++ Tick "Enable" next to $${\color{aquamarine}VLAN}$$.
++ Enter your $${\color{aquamarine}VLAN \space ID}$$ (This is provided by your ISP and might be different from the VLAN ID used in Internet configuration).
++ Leave $${\color{aquamarine}Priority}$$ and $${\color{aquamarine}Multicast \space VLAN}$$ as is.
++ Change the $${\color{aquamarine}Internet \space Conenction \space Type}$$ to "Dynamic IP".
++ Leave the rest as is.
+
+![VoIP-Config](images/setup-voip-1.png)
+
++ For the $${\color{aquamarine}Interface \space Binding}$$, tick VoIP.
+
+![VoIP-Interface](images/voip-interface.png)
+
+> [!CAUTION]
+> The Internet Binding might uncheck itself after the Telephony configuration. Make sure to come back to "Network" and modify the configuration and recheck the binding.
+
+## Telephony Configuration
+Next is the Telephone Number Configuration.
