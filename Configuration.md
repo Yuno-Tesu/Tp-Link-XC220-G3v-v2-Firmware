@@ -1,5 +1,5 @@
 # Configuration
-This section will help you to configure your device. This does not mean a complete configuration, but rather the things you need to do to successfully configure the device.
+This section will help you configure your device. This does not mean a complete configuration, but rather the things you need to successfully configure the device.
 
 > [!NOTE]
 > This is for information purpose only.
