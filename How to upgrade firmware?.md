@@ -17,4 +17,7 @@ Next to the **New firmware file** at the bottom, you will see an option to **Bro
 
 Click on **Upgrade**.
 
+The Firmware Upgrade page should look like this:
+![Firmware Upgrade](images/firmware-upgrade.jpg)
+
 This process will take a while and you have to ensure that the device will stay plugged in and powered on throughout the upgrade process.
