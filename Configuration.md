@@ -74,3 +74,8 @@ Head over to Telephony in the sidebar and from there, Telephone Number.
         |:--:|:--:|:--:|:--:|
         |Need to add the zeroes|Country code|Area STD code without the first 0|Telephone Number|
 + Enter your $${\color{aquamarine}Registrar \space Address}$$ (This has to be provided by your ISP).
++ Enter your $${\color{aquamarine}Authentication \space ID}$$ (If your ISP cannot provide this or is confused, put in the phone number you entered above in this section).
++ Enter your $${\color{aquamarine}Password}$$ (This has to be provided by your ISP as well).
++ Leave the $${\color{aquamarine}Advanced \space Settings}$$ as is.
+
+![Telephone-Config](images/setup-telephony.png)
