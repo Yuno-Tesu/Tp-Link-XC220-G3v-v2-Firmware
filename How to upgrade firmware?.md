@@ -1,21 +1,25 @@
 # How to upgrade firmware?
 This part explains how to upgrade your firmware, considering you can already access the admin page of the device. Ensure that your device will stay powered on throughout the process.
 
-Head on over to the admin page.
+---
 
-Choose $${\color{aquamarine}Advanced}$$ on the main navigation bar.
++ Head on over to the admin page.
 
-On the sidebar, select $${\color{aquamarine}System \space Tools}$$.
++ Choose $${\color{aquamarine}Advanced}$$ on the main navigation bar.
 
-From there, head to $${\color{aquamarine}Firmware \space Upgrade}$$.
++ On the sidebar, select $${\color{aquamarine}System \space Tools}$$.
 
-Scroll down to the bottom of the page where you can find $${\color{aquamarine}Local \space Upgrade}$$.
++ From there, head to $${\color{aquamarine}Firmware \space Upgrade}$$.
 
-Tick the checkbox near your device name.
++ Scroll down to the bottom of the page where you can find $${\color{aquamarine}Local \space Upgrade}$$.
 
-Next to the **New firmware file** at the bottom, you will see an option to $${\color{aquamarine}Browse}$$. Click on that and browse to the destination where you have the firmware upgrade file and open it using the file manager.
++ Tick the checkbox near your device name.
 
-Click on $${\color{aquamarine}Upgrade}$$.
++ Next to the **New firmware file** at the bottom, you will see an option to $${\color{aquamarine}Browse}$$. Click on that and browse to the destination where you have the firmware upgrade file and open it using the file manager.
+
++ Click on $${\color{aquamarine}Upgrade}$$.
+
+---
 
 The Firmware Upgrade page should look like this (do tick the checkbox though):
 
