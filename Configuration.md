@@ -69,13 +69,21 @@ Head over to Telephony in the sidebar and from there, Telephone Number.
 
 + Change $${\color{aquamarine}Telephony \space Provider}$$ to "Other Provider" in case of BSNL or pick your provider from the dropdown.
 + Enter your $${\color{aquamarine}Phone \space Numebr}$$
-    - The Phone number follows the format: `00913457777777`.
+        The Phone number follows the format: `00913457777777`.
         |00|91|345|7777777|
         |:--:|:--:|:--:|:--:|
         |Need to add the zeroes|Country code|Area STD code without the first 0|Telephone Number|
 + Enter your $${\color{aquamarine}Registrar \space Address}$$ (This has to be provided by your ISP).
 + Enter your $${\color{aquamarine}Authentication \space ID}$$ (If your ISP cannot provide this or is confused, put in the phone number you entered above in this section).
 + Enter your $${\color{aquamarine}Password}$$ (This has to be provided by your ISP as well).
-+ Leave the $${\color{aquamarine}Advanced \space Settings}$$ as is.
++ In the Advanced Section, leave the $${\color{aquamarine}Registrar \space Port}$$, $${\color{aquamarine}SIP \space Proxy \space Port}$$ and $${\color{aquamarine}Outbound \space Proxy \space Port}$$ as is, unless directed otherwise by your ISP.
++ The $${\color{aquamarine}SIP \space Proxy}$$ and $${\color{aquamarine}Outbound \space Proxy}$$ will be provided by the ISP and is usually the same as the $${\color{aquamarine}Registrar \space Address}$$.
 
 ![Telephone-Config](images/setup-telephony.png)
+
++ Leave the second $${\color{aquamarine}Advanced \space Settings}$$ as is.
++ Head back over to Internet and Network to see if the VoIP Interface binding still has VoIP checked. If it's unchecked, check it again and save it.
+
+---
+
+That's it. If you followed through properly, your device should be properly configured with both Internet and VoIP.
