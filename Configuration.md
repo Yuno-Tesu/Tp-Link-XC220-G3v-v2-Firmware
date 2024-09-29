@@ -84,7 +84,7 @@ The Phone number follows the format: `00913457777777`.
 ![Telephone-Config](images/setup-telephony.png)
 
 + Leave the second $${\color{aquamarine}Advanced \space Settings}$$ as is.
-+ Head back over to Internet and Network to see if the [VoIP Interface Binding](##VoIP Configuration) still has VoIP checked. If it's unchecked, check it again and save it.
++ Head back over to Internet and Network to see if the VoIP Interface Binding still has VoIP checked. If it's unchecked, check it again and save it.
 
 ---
 
