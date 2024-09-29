@@ -50,7 +50,7 @@ Right in the Advanced section of Internet, under Network, add another configurat
 + Tick "Enable" next to $${\color{aquamarine}VLAN}$$.
 + Enter your $${\color{aquamarine}VLAN \space ID}$$ (This is provided by your ISP and might be different from the VLAN ID used in Internet configuration).
 + Leave $${\color{aquamarine}Priority}$$ and $${\color{aquamarine}Multicast \space VLAN}$$ as is.
-+ Change the $${\color{aquamarine}Internet \space Conenction \space Type}$$ to "Dynamic IP".
++ Change the $${\color{aquamarine}Internet \space Connection \space Type}$$ to "Dynamic IP".
 + Leave the rest as is.
 
 ![VoIP-Config](images/setup-voip-1.png)
@@ -84,7 +84,7 @@ The Phone number follows the format: `00913457777777`.
 ![Telephone-Config](images/setup-telephony.png)
 
 + Leave the second $${\color{aquamarine}Advanced \space Settings}$$ as is.
-+ Head back over to Internet and Network to see if the VoIP Interface binding still has VoIP checked. If it's unchecked, check it again and save it.
++ Head back over to Internet and Network to see if the [VoIP Interface Binding](##VoIP Configuration) still has VoIP checked. If it's unchecked, check it again and save it.
 
 ---
 
