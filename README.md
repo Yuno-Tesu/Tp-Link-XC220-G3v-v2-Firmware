@@ -1,17 +1,19 @@
 # Tp-Link-XC220-G3v-v2-Firmware
-This repository houses the firmware for the TP Link Router XC220-G3v v2 which has problems connecting to the internet and landline simultaneously.
+This repository houses firmware for the TP Link Router XC220-G3v v2 which has problems connecting to the internet and landline simultaneously.
 
 Hardware version: XC220-G3v v2.0 00000000
 
 Firmware version 1: 1.11.0 0.8.0 v6062.0 Build 240612 Rel.39329n
-Firmware version 2: 1.12.0 0.8.0 v6062.0 Build 240724 Rel. - - (will update later.)
+
+Firmware version 2: 1.12.0 0.8.0 v6062.0 Build 240724 Rel.23437n
+
 Firmware version 3: 1.13.0 0.8.0 v6062.0 Build 240822 Rel.26630n
 
 # DO NOT UPGRADE directly to the lastest firmware
 Kindly do not upgrade to the latest version of the firmware directly. Upgrade iteratively in stages — first firmware first, second firmware second, and so on. I was asked to do it this way by the Tp-Link engineer. There must be a reason for upgrading in stages.
 
 ## This firmware may not be up-to-date at the time of viewing this page.
-The firmware is the latest as of September 28, 2024.
+The firmware is the latest as of February 03, 2026.
 
 ## Works with BSNL Fibre and Landline simultaneously.
 I am led to believe that this is the major issue through [this post](https://community.tp-link.com/en/home/forum/topic/618838?sortDir=DESC&page=1). Because, I had a similar issue where my internet was working fine but not my landline. I believe whichever is configured first works properly.
